@@ -48,4 +48,11 @@ button {
 button:hover {
     background-color: #ffd562;
 }
+button:active {
+    background-color: transparent;
+}
+
+button.equal {
+    grid-row: span 2;
+}
 
